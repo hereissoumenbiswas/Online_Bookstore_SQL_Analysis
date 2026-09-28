@@ -1,6 +1,6 @@
 # 📚 Bookstore Sales Analysis — SQL Project
 
-A SQL-based analysis of a bookstore's sales data, covering data cleaning, business-question queries, and revenue/inventory insights using **PostgreSQL**.
+A SQL analysis of sales data of a book store. Includes data cleaning, queries based on business questions and insights on revenue/inventory using **PostgreSQL**.
 
 ## 📌 Project Overview
 
