@@ -65,7 +65,7 @@ Full cleaning queries are documented in the [Bookstore_sales_analysis.sql]
 
 ## ❓ Most Important Business Questions
 
-Out of 21 total queries, these are the ones with the most direct business impact:
+Of the 21 total queries, the most directly business impacting are:
 
 | # | Business Question | Answer | Why It Matters |
 |---|---|---|---|
