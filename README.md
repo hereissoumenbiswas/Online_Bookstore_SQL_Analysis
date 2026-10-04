@@ -6,7 +6,7 @@ A SQL analysis of book store sales data. Includes data cleaning, queries based o
 
 This project analyzes a bookstore's operations using three related datasets — **Books**, **Customers**, and **Orders** — to answer real business questions such as top-selling genres, highest-spending customers, remaining stock after order fulfillment, and revenue trends.
 
-The goal was to do end to end SQL analysis: designing a relational schema, cleaning raw data, writing business-driven queries — the same workflow used in real data analyst roles.
+The goal was to do end-to-end SQL analysis: design relational schema, clean raw data, write business-driven queries -- the same workflow used in real data analyst roles.
 
 ## 🗂️ Dataset
 
