@@ -92,4 +92,4 @@ Of the 21 total queries, the most directly business impacting are:
 **Author:** Soumen Biswas
 *(https://www.linkedin.com/in/hereissoumenbiswas/)*
 
-*A practice project to strengthen SQL skills - schema design, data cleaning, and business-question analysis.*
+*A practice project to develop SQL skills - schema creation, data cleansing, and business-question analysis.*
